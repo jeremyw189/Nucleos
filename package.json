@@ -1,8 +1,8 @@
 {
   "name": "Nucleos",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Jeremy Winfree",
+  "homepage": "https://jeremywinfree.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

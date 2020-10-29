@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.jeremywinfree.nucleos",
   "appName": "Nucleos",
   "bundledWebRuntime": false,
   "npmClient": "npm",

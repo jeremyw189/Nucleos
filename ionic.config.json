@@ -1,0 +1,7 @@
+{
+  "name": "Nucleos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
